@@ -1,0 +1,116 @@
+.lineInMiddle {
+    height:400px;
+    margin-top: 30px;
+	  background: linear-gradient(to right, 
+	                              transparent 0%, 
+	                              transparent calc(50% - 0.81px), 
+	                              rgba(44, 41, 41, 0.568) calc(50% - 0.8px), 
+	                              rgba(44, 41, 41, 0.568) calc(50% + 0.8px), 
+	                              transparent calc(50% + 0.81px), 
+	                              transparent 100%); 
+	}
+
+.InputElement {
+    outline: noen;
+    border: 1px solid rgb(223, 208, 208); 
+    background-color: white;
+    margin: 0 0 1em 0;
+    padding: 8px;
+    display: block; 
+    box-sizing: border-box;
+    border-radius: 2mm;
+    width: 95%;
+    bottom:23.5em; 
+}
+
+.Description {
+   position: absolute;
+   top: 47px;
+   left: 0px;
+   right: 3px;
+   font-size: 0.68vw;
+   font-weight: 500;
+
+}
+
+.Budget {
+    position: absolute;
+    top: 15em;
+    font-weight: 500;
+    left: 0px;
+    font-size: 0.63vw;
+}
+
+.BudgetOk {
+    position: absolute;
+    top: 15.1em;
+    left: 25.3em;
+    padding: 3px; 
+    font-size: 0.63vw;
+    border-radius: 5px;
+    background-color: rgba(196, 212, 235, 0.808);
+}
+
+.BudgetOk:hover{
+    border-color: rgb(8, 8, 92)
+}
+
+.BudgetInput{
+position: absolute; 
+width: 7vw;
+left: 13.7em; 
+border-radius: 2mm;
+border: 1px solid rgb(223, 208, 208); 
+background-color: white;
+padding: 3px; 
+}
+
+.BudgetOkTotal {
+    position: absolute;
+    top: 15.1em;
+    left: 28.5em;
+    padding: 3px; 
+    font-size: 0.63vw;
+    border-radius: 5px;
+    background-color: rgba(196, 212, 235, 0.808);
+}
+
+.BudgetOkTotal:hover{
+    border-color: rgb(8, 8, 92)
+}
+
+.BudgetInputTotal{
+position: absolute; 
+width: 7vw;
+left: 17em; 
+border-radius: 2mm;
+border: 1px solid rgb(223, 208, 208); 
+background-color: white;
+padding: 3px; 
+}
+
+.Rosi{
+    left: 0px; 
+    font-size: 0.63vw;
+    position: absolute;
+    top: 22.3em; 
+    font-weight: 500;
+}
+
+.RoSIgreen{
+    position: absolute;
+    left: 16em;
+    bottom: 0.1em;
+    border-spacing: 3px;
+    color: rgb(10, 107, 10);
+}
+
+.RoSIred{
+    position: absolute;
+    left: 16em;
+    bottom: 0.1em;
+    border-spacing: 3px;
+    color: red; 
+}
+
+

@@ -1,0 +1,38 @@
+.Input{
+    width:250px; 
+    margin-right: 10; 
+    padding: 20px;
+    box-sizing: border-box; 
+}
+
+.Label {
+    display: block; 
+    margin-bottom: 1px; 
+
+}
+
+.InputElement {
+    outline: noen;
+    border: 1px solid rgb(223, 208, 208); 
+    background-color: white;
+    font: inherit; 
+    margin: 0 0 1em 0;
+    padding: 10px; 
+    display: block; 
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 2mm;
+
+
+}
+.InputElement:hover{
+    border-color: rgb(77, 126, 190);
+
+}
+
+.InputElement:focus {
+    outline: none;
+    background-color: #ccc;
+
+
+}

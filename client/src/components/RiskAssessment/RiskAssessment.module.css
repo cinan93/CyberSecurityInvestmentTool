@@ -1,0 +1,113 @@
+.Col {
+    border: 1px solid; 
+    border-radius: 2mm; 
+    height: 200px;
+    overflow: hidden;  
+    position: relative;
+    margin-bottom: 10px;
+}
+
+ h4{
+     margin-top: 3px;
+     color: black; 
+     text-align: center;
+}
+
+.hr {
+    display: block;
+    margin-top: 0.5em;
+    background-color: black;
+
+}                               
+
+.hrDescription{
+    display: block; 
+    background-color: rgb(190, 164, 164);
+    margin-top: 8em; 
+}
+
+.riskRed{
+    line-height: 10px;
+    position: absolute;
+    left: 0.75em;
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+.riskBlue{
+    line-height: 10px;
+    position: absolute;
+    left: 0.75em;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(76, 76, 189); 
+}
+
+.riskGreen{
+    line-height: 10px;
+    position: absolute;
+    left: 0.75em;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(10, 107, 10);
+}
+
+.riskDescription{
+    position: absolute;
+    left: 7.5em;
+    top: 2.5em;
+    font-size: 15px;
+    right: 1em;
+    }
+
+
+.riskDescriptionIndirectCost{
+    position: absolute;
+    left: 7.5em;
+    top: 3em;
+    font-size: 13px;
+    right: 1em;
+     }
+    
+
+.alpha{
+   position: absolute;
+   left: 3px;
+   top: 165px;
+   font-weight: 600;
+}
+
+.directCostDescription{
+    position: absolute;
+    top: 3em;
+    left: 0.6em;
+    font-weight: 600;
+}
+.description{
+    position: absolute;
+    left: 7.5em;
+    top: 3em;
+}
+.amountNumber{
+    position: absolute;
+    left: 7em;
+    top: 10.5em;
+    font-weight: 600;
+}
+.amount {
+    position: absolute;
+    top: 10.5em;
+    left: 0.6em; 
+    font-weight: 600;
+
+}
+.businessRisks {
+    list-style-type: black circle ;
+    position: absolute;
+    left: 0.5em;
+}
+
+
+
+
