@@ -1,0 +1,88 @@
+{
+    "Company": {
+        "Name": "", 
+        "BusinessSector": "Healthcare",
+        "Threat": [{
+            "Name": "Ransomware", 
+            "Measures": [{
+                "Name": "Operation System Security",
+                "Description" : "", 
+                "Budget": "",
+                "RiskMitigation": "", 
+                "AverageWeightValue": "", 
+                "ROSI": "", 
+                "Indicator":  [{
+                    "Name": "Type of Operation System", 
+                    "ValueUserInput": ""
+                }]
+
+            },
+            {
+                "Name": "",
+                "Description" : "", 
+                "Budget": "",
+                "RiskMitigation": "", 
+                "AverageWeightValue": "", 
+                "ROSI": "", 
+                "Indicator":  [{}]
+
+            },
+            {
+                "Name": "",
+                "Description" : "", 
+                "Budget": "",
+                "RiskMitigation": "", 
+                "AverageWeightValue": "", 
+                "ROSI": "", 
+                "Indicator":  []
+
+            },
+            {
+                "Name": "",
+                "Description" : "", 
+                "Budget": "",
+                "RiskMitigation": "", 
+                "AverageWeightValue": "", 
+                "ROSI": "", 
+                "Indicator":  []
+
+            },
+            {
+                "Name": "",
+                "Description" : "", 
+                "Budget": "",
+                "RiskMitigation": "", 
+                "AverageWeightValue": "", 
+                "ROSI": "", 
+                "Indicator":  []
+
+            },
+            {
+                "Name": "",
+                "Description" : "", 
+                "Budget": "",
+                "RiskMitigation": "", 
+                "AverageWeightValue": "", 
+                "ROSI": "", 
+                "Indicator":  []
+
+            }], 
+            "RiskOfThreatExposure": {"TotalAverageWeightValue": "", 
+                                      "Risk": "",
+                                      "Description": ""}, 
+
+            "IndirectCost": {"Risk": "", 
+                            "Description": ""},
+
+            "DirectCost": {"Amount": "", 
+                            "Description": ""},
+
+            "BusinessRisks": "", 
+
+            "Insurence": {"Cost": "", 
+                          "CoverageRate": "", 
+                           "ROSI": ""}
+             
+        }]
+    }
+}
