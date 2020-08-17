@@ -19,9 +19,9 @@ const connection = mongoose.connection;
 connection.once('open', ()=> {
     console.log("MongoDB database connection established successfully");
     
- /* data.ransomware.save(); 
-data.company1.save();   
- */
+    //data gets added to the database here
+    /* data.ransomware.save(); 
+    data.company1.save();  */  
         })
 
 //import of Router 

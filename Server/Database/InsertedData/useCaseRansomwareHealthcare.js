@@ -104,8 +104,8 @@ ransomware = new Threat({
                                            {name: 'No', value: 1},
                                             ], 
                             value: 1}]},
-            {name: 'Cyber Insurence',
-            description: 'Cyber Insurence covers a big part of the financial loss (assumed coverage rate here 90%), but does not mitigate the risk of an attack happening and the indirect costs of an attack can not be mitigated. It can be useful but it is still recommended to have a secure system first, in order to keep the premiums low!',
+            {name: 'Cyber Insurance',
+            description: 'Cyber Insurance covers a big part of the financial loss (assumed coverage rate here 90%), but does not mitigate the risk of an attack happening and the indirect costs of an attack can not be mitigated. It can be useful but it is still recommended to have a secure system first, in order to keep the premiums low!',
             riskMitigationFactor: 0.9}
             ],
 
@@ -160,6 +160,5 @@ ransomware = new Threat({
     companyId: company1._id
 }
 )
-
 
 module.exports = {company1, ransomware}; 

@@ -11,7 +11,7 @@ import RiskAssessment from '../RiskAssessment/RiskAssessment'
 import companyforms from '../../const/companyForms'
 import InputSE from './InputSE'
 import Measures from '../MitigationMeasures/Measures'
-import Statistics from './Statistics/Statistics';
+import Statistics from '../Statistics/Statistics';
 
  const EmptyListContainer = styled.div`
   text-align: center;
