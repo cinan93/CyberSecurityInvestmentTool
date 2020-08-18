@@ -55,7 +55,7 @@ const RiskAssessment = (props) => {
                     <p className={classes.description}>{props.directCostDescription}</p>
                     <hr className={classes.hrDescription}/>
                     <div className={classes.amount}>
-                        Amount: 
+                        Amount ($): 
                     </div>
                     <p className={classes.amountNumber}>{props.directCostAmount}</p>
                    </div>
